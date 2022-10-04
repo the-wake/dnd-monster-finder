@@ -1,5 +1,5 @@
-# D&D Monster Finder
-D&D Monster Finder is a Dungeons & Dragons monster search application that allows people to search for monster challenge ratings and receive a random snack based on user input.
+# Dungeon Seekers
+Dungeon Seekers is a Dungeons & Dragons monster search application that allows people to search for monster challenge ratings and receive a random snack based on user input.
 
 
 ## Introduction
@@ -78,4 +78,4 @@ spiked-dragon-head - https://game-icons.net/1x1/delapouite/spiked-dragon-head.ht
 
 You can find our website here:
 
-https://github.com/the-wake/dnd-monster-finder
+https://github.com/the-wake/dungeon-seekers
