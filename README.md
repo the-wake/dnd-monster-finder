@@ -23,11 +23,10 @@ As a DM (Dungeon Master) of Dungeons & Dragons:
 * I want to know its ability scores (Strength, Dexterity, etc.).
 * I want to be able to make a list of monsters I'm considering using.
 * I want my list to be saved between sessions.
-* I want to be inspired by pictures of delicious food.
 
 
 ## General Information
-Upon making a successful search, users are presented with monster cards that contain the following information: monster name, monster challenge rating, monster type, and ability scores. Users may also type in their favorite snack to get a random snack under that category that they can use to further enhance their D&D experience. You can't play D&D without snacks.
+Upon making a successful search, users are presented with monster cards that contain the following information: monster name, monster challenge rating, monster type, and ability scores. Monster cards can be clicked to save them to a menu, which is stored in local storage. Monsters in the menu can be clicked to remove them.
 
 
 ## API
@@ -79,4 +78,4 @@ spiked-dragon-head - https://game-icons.net/1x1/delapouite/spiked-dragon-head.ht
 
 You can find our website here:
 
-https://the-wake.github.io/project-1-dnd/
+https://github.com/the-wake/dnd-monster-finder
