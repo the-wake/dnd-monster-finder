@@ -1,4 +1,7 @@
 # Dungeon Seekers
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Dungeon Seekers is a Dungeons & Dragons monster search application that allows people to search for monster challenge ratings and receive a random snack based on user input.
 
 
